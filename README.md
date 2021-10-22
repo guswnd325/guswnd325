@@ -11,10 +11,7 @@ I want to be a Programmer✨
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
   <br>
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
@@ -22,7 +19,7 @@ I want to be a Programmer✨
 
 <p align="center">
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  <a href="mailto:guswnd325@o365.jne.go.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
   
 </p>
 
